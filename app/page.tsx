@@ -3,8 +3,6 @@ import { useState } from "react";
 import type { MouseEventHandler } from "react";
 import { LazyImage } from "./components/RandomFox";
 
-import Document, { Html, Head, Main, NextScript } from "next/document";
-
 export default function Home() {
   const random = (): number => Math.floor(Math.random() * 123) + 1;
 
