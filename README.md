@@ -6,7 +6,7 @@ Proyecto creado con React Typescript donde se consulta una página que provee im
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **[Deployment](https://img-lazy-loading-ts-react.netlify.app/)** para conocer como desplegar el proyecto.
+Mira **[Deployment](https://img-lazy-loading-ts-tatanlion.netlify.app/)** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
